@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">CineNova TV</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_videos">Videos</string>
+    <string name="nav_watchlist">Watchlist</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Branding & Header -->
+    <string name="brand_title">CineNova TV</string>
+    <string name="rihi_tv_brand">Rihi TV</string>
+    <string name="rihi_tv_tagline">Original Partner Studio • Broadcast Hub</string>
+    <string name="search_placeholder">Search movies &amp; videos by title…</string>
+    <string name="clear_search">Clear search</string>
+
+    <!-- Home & Hero -->
+    <string name="featured_badge">FEATURED PREMIERE</string>
+    <string name="action_play_now">Play Now</string>
+    <string name="action_add_watchlist">Add to Watchlist</string>
+    <string name="action_in_watchlist">In Watchlist</string>
+    <string name="action_details">Details</string>
+
+    <!-- Sections -->
+    <string name="section_trending_movies">Trending Movies</string>
+    <string name="section_scifi_action">Sci-Fi &amp; Action</string>
+    <string name="section_open_cinema">Independent &amp; Open Cinema</string>
+    <string name="section_featured_videos">Curated Video Channels</string>
+    <string name="all_categories">All</string>
+
+    <!-- Details & Player -->
+    <string name="player_loading">Buffering stream…</string>
+    <string name="player_error_title">Playback unavailable</string>
+    <string name="player_error_subtitle">Check your internet connection and retry streaming.</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_fullscreen">Toggle Fullscreen</string>
+    <string name="action_back">Go back</string>
+    <string name="more_like_this">More in this Category</string>
+    <string name="licensed_sample_note">Licensed Open-Source &amp; Sample Stream</string>
+
+    <!-- Watchlist -->
+    <string name="watchlist_title">My Watchlist</string>
+    <string name="watchlist_empty_title">Your Watchlist is empty</string>
+    <string name="watchlist_empty_subtitle">Save movies and videos to queue them up for instant playback on any screen.</string>
+    <string name="watchlist_explore_cta">Explore Catalog</string>
+    <string name="action_remove">Remove</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_playback_section">Playback &amp; Streaming</string>
+    <string name="settings_quality_label">Preferred Video Quality</string>
+    <string name="settings_autoplay_label">Autoplay Next Recommendation</string>
+    <string name="settings_autoplay_desc">Automatically queue related licensed videos</string>
+    <string name="settings_subtitles_label">Show Captions / Subtitles by Default</string>
+    <string name="settings_subtitles_desc">Enable closed captions when available in stream</string>
+    <string name="settings_wifi_only_label">Stream on Wi-Fi Only</string>
+    <string name="settings_wifi_only_desc">Prevent mobile data usage during HD video playback</string>
+    <string name="settings_storage_section">Library &amp; Cloud Readiness</string>
+    <string name="settings_clear_watchlist">Clear Watchlist</string>
+    <string name="settings_firebase_title">Firebase Integration Ready</string>
+    <string name="settings_firebase_desc">Repository and sync interfaces are structured for future Firebase Firestore &amp; Auth integration.</string>
+    <string name="settings_more_section">Information &amp; Support</string>
+    <string name="settings_about_item">About App</string>
+    <string name="settings_support_item">Contact &amp; Support</string>
+
+    <!-- About -->
+    <string name="about_title">About CineNova TV</string>
+    <string name="about_app_name_label">App Name</string>
+    <string name="about_app_name_value">CineNova tv</string>
+    <string name="about_developer_label">Developer</string>
+    <string name="about_developer_value">Ashik Ansari</string>
+    <string name="about_version_label">App Version</string>
+    <string name="about_version_value">1.0.0</string>
+    <string name="about_creator_label">App Creator</string>
+    <string name="about_creator_value">Ashik Ansari</string>
+    <string name="about_licensing_title">Content &amp; Licensing</string>
+    <string name="about_licensing_body">CineNova TV streams licensed open-source films and sample media assets only. No copyrighted commercial films are embedded or hosted without authorization.</string>
+
+    <!-- Contact / Support -->
+    <string name="support_title">Contact &amp; Support</string>
+    <string name="support_subtitle">Need help with streaming playback, watchlist sync, or feedback for Ashik Ansari &amp; the Rihi TV team?</string>
+    <string name="support_name_label">Your Name</string>
+    <string name="support_email_label">Email Address</string>
+    <string name="support_topic_label">Support Topic</string>
+    <string name="support_message_label">Message</string>
+    <string name="support_submit">Send Support Request</string>
+    <string name="support_sent_title">Request Logged</string>
+    <string name="support_sent_body">Thank you! Your support inquiry has been prepared for the CineNova TV support desk.</string>
+    <string name="support_faq_title">Frequently Asked Questions</string>
+</resources>
